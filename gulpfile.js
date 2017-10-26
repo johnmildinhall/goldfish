@@ -20,7 +20,7 @@ var path = {
         src: 'src/',
        html: 'src/**/*.html',
          js: 'src/js/*.js',
-       sass: 'src/css/sass/**/*.scss',
+       sass: 'src/css/scss/**/*.scss',
         css: 'src/css/',
         data: 'src/data/**/*.*'
 };
